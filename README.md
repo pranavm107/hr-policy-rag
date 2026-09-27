@@ -1,4 +1,4 @@
-````markdown
+
 # HR Policy Assistant (RAG)
 
 An AI-powered HR Policy Assistant built using Retrieval-Augmented Generation (RAG). The system allows employees to ask questions about company HR policies and receive context-aware answers based on the organization's HR policy document.
@@ -59,7 +59,7 @@ The project uses LangChain for the RAG pipeline, Groq-hosted LLMs for generation
                            |
                            v
                      Final Answer
-````
+
 
 ## RAG Pipeline
 
