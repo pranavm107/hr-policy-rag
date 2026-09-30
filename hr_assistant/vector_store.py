@@ -12,7 +12,7 @@ def build_vector_store(chunks):
     Embed every chunk and build
     a searchable FAISS index in memore."""
     embeddings_model = get_embedding_model()
-    return FAISS.from_documents(chunks, embedding_model) # this function convert the text into numbers
+    return FAISS.from_documents(chunks, embeddings_model) # this function convert the text into numbers
 
 
 # whatever we index we create it need to store

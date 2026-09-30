@@ -26,7 +26,7 @@ VECTOR_STORE_PATH = os.path.join("data", "faiss_index")
 ## MODELS
 # LLM and EMBEDING MODEL
 
-LLM_MODEl_NAME = "openai/gpt-oss-120b"
+LLM_MODEL_NAME = "openai/gpt-oss-120b"
 
 EMBEDDING_MODEL_NAME = "jina-embeddings-v4"
 
