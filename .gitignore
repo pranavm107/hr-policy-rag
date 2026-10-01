@@ -1,2 +1,4 @@
 ragproject
 .env
+
+data/faiss_index

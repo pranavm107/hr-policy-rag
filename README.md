@@ -298,7 +298,7 @@ uv venv ragenv
 #### macOS / Linux
 
 ```bash
-source ragenv/bin/activate
+source ragproject/bin/activate
 ```
 
 #### Windows
